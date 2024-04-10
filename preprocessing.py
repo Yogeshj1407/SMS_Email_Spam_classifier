@@ -1,6 +1,10 @@
 import numpy as np
 import pandas as pd
 import nltk
+
+nltk.download('stopwords')
+nltk.download('punkt')
+
 from nltk.corpus import stopwords
 import string
 from nltk.stem.porter import PorterStemmer
