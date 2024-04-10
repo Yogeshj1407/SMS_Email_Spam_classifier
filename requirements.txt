@@ -1,7 +1,10 @@
 streamlit
 nltk
 scikit-learn
+<<<<<<< HEAD
 nltk.corpus import stopwords
 nltk.stem.porter import PorterStemmer
 string
 WordCloud
+=======
+>>>>>>> 42b1b66e0987875a9fe222f15d60e6cce45020c9
