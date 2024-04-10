@@ -1,3 +1,5 @@
 streamlit
 nltk
 scikit-learn
+nltk.download('stopwords')
+nltk.download('punkt')
