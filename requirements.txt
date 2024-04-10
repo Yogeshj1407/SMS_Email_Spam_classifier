@@ -1,3 +1,7 @@
 streamlit
 nltk
-sklearn
+scikit-learn
+nltk.corpus import stopwords
+nltk.stem.porter import PorterStemmer
+string
+WordCloud
